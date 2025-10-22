@@ -5,8 +5,8 @@ Institut Icària
 
 Programació - 1r Batxillerat - Curs 2025-26
 
-El programa dona per entrada el residuo i el quocient d'una divisio, escriu la divisio,
-el quocient i el residuo, dona els resultats en innt
+El programa dona per entrada el residuo i el quocient d'una divisio,
+escriu la divisió.
 '''
 __author__ = "Valentí Bernet"
 __email__ = "vbernet@instituticaria.cat"
